@@ -1,2 +1,2 @@
 Instructions:
-run python file 
+run python file 'Racer.py'
